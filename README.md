@@ -23,12 +23,10 @@
 - 📫 How to reach me: 
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 https://www.linkedin.com/in/vinicius-rodrigues-3b94161a9/
 
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 vinicius.dev01@gmail.com
 
 
