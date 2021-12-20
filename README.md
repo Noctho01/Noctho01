@@ -20,9 +20,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 - 📫 How to reach me: 
+
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-rodrigues-3b94161a9/)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Noctho01&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Noctho01&count_private=true&show_icons=true&include_all_commits=true)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Noctho01.Noctho01)
