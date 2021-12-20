@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noctho01&hide=TeX&layout=compact)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Noctho01.Noctho01)
