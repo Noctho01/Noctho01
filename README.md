@@ -1,37 +1,49 @@
-### Hi there 👋 
-###
+<h1 align="center">prazer!! 👋 Vinicius Rodrigues</h1>
+<h3 align="center">Desenvolvedor - Backend 💾</h3>
 
-- 🌱 I’m currently learning:
+<div>
+  <a href="https://github.com/Noctho01">
+  <img height="180em" align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=Noctho01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"> 
+  <img height="180em" align="left" width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noctho01&layout=compact&langs_count=7&theme=dracula">
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<br>
+<br>
+<div align="center">
+  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-- 👯 I’m looking to collaborate on Projects in
+##
+  
+<h2>🧠 Conhecimento em ...</h2>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<div>
+  <img align="center" alt="NODE.JS" height="30" width="80" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="PYTHON" height="30" width="80" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> | 
+  <img align="center" alt="MONGODB" height="30" width="80" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img align="center" alt="MYSQL" height="30" width="80" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="POSTGRESS" height="30" width="80" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"> | 
+  <img align="center" alt="SOCKETIO" height="30" width="80" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+  <img align="center" alt="JWT" height="30" width="80" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"> | 
+  <img align="center" alt="GIT" height="30" width="60" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="APIRESTFUL" height="30" width="80" src="https://img.shields.io/badge/REST-ful-green">
+  <img align="center" alt="MVC" height="30" width="130" src="https://img.shields.io/badge/architecture-MVC-red">
+</div>
 
-- 📫 How to reach me: 
+##
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-https://www.linkedin.com/in/vinicius-rodrigues-3b94161a9/
+<h2>📚 Estudando ...</h2>
 
-
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-vinicius.dev01@gmail.com
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Noctho01&count_private=true&show_icons=true&include_all_commits=true)
-
+<div>
+  <img align="center" alt="" height="30" width="80" src="">
+  <img align="center" alt="" height="30" width="80" src="">
+  <img align="center" alt="" height="30" width="80" src="">
+  <img align="center" alt="" height="30" width="80" src="">
+  <img align="center" alt="" height="30" width="80" src="">
+</div>
+ 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Noctho01.Noctho01)
