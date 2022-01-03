@@ -30,8 +30,8 @@
   <img align="center" alt="GIT" height="30" width="60" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="APIRESTFUL" height="30" width="80" src="https://img.shields.io/badge/REST-ful-green">
   <img align="center" alt="MVC" height="30" width="130" src="https://img.shields.io/badge/architecture-MVC-red"> | 
-  
-  <img align="center" alt="SOCKETIO" height="30" width="80" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+  <br>
+  <img align="center" alt="SOCKETIO" height="30" width="80" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=black">
   <img align="center" alt="JWT" height="30" width="80" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
 </div>
 
