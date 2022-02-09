@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/62301853/153274858-7f26191b-5fae-45ae-ad64-4a0592188728.png">
 </p>
 <h1 align="center">Hi 👋, I'm Vinicius Rodrigue</h1>
-<h3 align="center">Desenvolvedor Backend - Autodidact - Problem Solver</h3>
+<h3 align="center">Backend Developer - Autodidact - Problem Solver</h3>
 
 <div align="center">
   <a href="https://github.com/Noctho01">
