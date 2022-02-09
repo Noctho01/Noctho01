@@ -1,7 +1,10 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/62301853/153274858-7f26191b-5fae-45ae-ad64-4a0592188728.png">
+</p>
 <h1 align="center">Hi 👋, I'm Vinicius Rodrigue</h1>
 <h3 align="center">Desenvolvedor Backend - Autodidact - Problem Solver</h3>
 
-<div>
+<div align="center">
   <a href="https://github.com/Noctho01">
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api?username=Noctho01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"> 
   <img height="160em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noctho01&layout=compact&langs_count=7&theme=tokyonight">
@@ -12,12 +15,11 @@
 
 <h2> 🤝 I'm looking for a job as development </h2>
 
-
-- I'm working on a personal project [EntityFactory](https://github.com/Noctho01/EntityFactory)
+- 👨🏽‍💻 I'm working on a personal project [EntityFactory](https://github.com/Noctho01/EntityFactory)
 
 - 👯 I’m looking to collaborate on [EntityFactory](https://github.com/Noctho01/EntityFactory)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Noctho01?tab=repositories](https://github.com/Noctho01?tab=repositories)
+- :octocat: All of my projects are available at [https://github.com/Noctho01?tab=repositories](https://github.com/Noctho01?tab=repositories)
 
 <br>
 
@@ -43,12 +45,9 @@
   
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-darkgrey?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-grey?&style=for-the-badge&logo=Socket.io&logoColor=white)
