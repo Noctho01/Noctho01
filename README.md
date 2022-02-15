@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/62301853/153274858-7f26191b-5fae-45ae-ad64-4a0592188728.png">
 </p>
-<h1 align="center">Hi 👋, I'm Vinicius Rodrigue</h1>
+<h1 align="center">Hi 👋, I'm Vinicius Rodrigues</h1>
 <h3 align="center">Backend Developer - Autodidact - Problem Solver</h3>
 
 <div align="center">
