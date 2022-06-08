@@ -6,7 +6,9 @@
 <br>
 
 <div>
-  
+
+<img src="https://miro.medium.com/max/653/0*asGn9Td3i3o0zQKV" align="right" width="300">
+
 ### Contato 🌎
 [vinicius.dev@gmail.com](vinicius.dev@gmail.com)
 
