@@ -1,12 +1,9 @@
-
 <div align="center">
   <h1> 👉 Vinicius Rodrigues 👈</h1>
   <h3>Backend Developer - Autodidact - Problem Solver</h3>
 </div>
 
-<div align="center"> 
-  <img src="https://i.pinimg.com/originals/ed/c3/cd/edc3cd0eb285e419bf1cd25b44559066.gif" width="100">
-</div>
+<br>
 
 <div>
   
